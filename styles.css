@@ -15,7 +15,7 @@ body{
 }
 
 
-//Mantendo titulos visiveis apenas para leitores de tela (CSSTricks)
+/* Mantendo titulos visiveis apenas para leitores de tela (CSSTricks) */
 .sr-only {
     position: absolute;
     width: 1px;
